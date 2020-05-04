@@ -14,4 +14,4 @@ def estimate_distance():
     tmp = "Done!"
     os.system('python src/distance/base.py')
     
-    return render_template("estimate.html")
+    return "<h1>asdfasf</h1>"
